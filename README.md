@@ -12,4 +12,6 @@ $ npm install -g flow-bin
 $ npm install
 ```
 
-PS : The experience with [Flowtype](https://flowtype.org/) is even better if you use it with [Atom](https://atom.io) + [Nuclide](http://nuclide.io) 😍 ✨
+### Note :
+
+The experience with [Flowtype](https://flowtype.org/) is even better if you use it with [Atom](https://atom.io) + [Nuclide](http://nuclide.io) 😍 ✨
